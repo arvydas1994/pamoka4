@@ -1,0 +1,50 @@
+.left-side{
+    background-color: grey;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+.style{
+    line-height: 0;
+    color: white;
+}
+.style2{
+    color: lightgrey;
+    margin-right: 40%;
+}
+.antras{
+    background-color: lightgray;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.antras2{
+    margin-left: 25%;
+    margin-right: 25%;
+    color: whitesmoke;
+}
+.about .wrapper1{
+    padding-left: 50px;
+    float: left;
+    width: 60%;
+}
+.about .wrapper2{
+    padding-right: 70px;
+    float: right;
+    width: 30%;
+}
+.about .wrapper1 h2{
+    color: black;
+}
+.about .wrapper2 h2{
+    color: black;
+}
+.about .wrapper1 h3{
+    color: darkgrey
+}
+.about .wrapper2 h3{
+    color: darkgrey;
+}
+.about a{
+    color: blue;
+    text-decoration: none;
+}
